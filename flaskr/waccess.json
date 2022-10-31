@@ -1,0 +1,7 @@
+{
+    "host":"ec2-54-211-255-161.compute-1.amazonaws.com",
+    "database":"d5s2jp78kn6q2s",
+    "user":"pjbhkmobwhsizy",
+    "password":"7a65c0483864bdf890bf145832d9fc20c2a38755d7ae410d00e2bdc953f55f4f",
+    "port":5432
+}
